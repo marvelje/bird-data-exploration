@@ -58,3 +58,7 @@ Red List (threatened, endangered, etc):
 * There is additional region data found here (https://www.worldbirdnames.org/new/ioc-lists/master-list-2/)
 * It is more useful for our model because it identifies primary "breeding" region, but the data is very messy.
 * This is not included in the dataset, but we hope to have it incorporated by next week (if our dataset is approved :) )
+
+## First simple model
+
+In birds_simple_model.ipynb, we ran a logistic regression using most of the numerical columns. The model failed to converge and predicted a ton of false negatives. Seems like we have some work to do!
