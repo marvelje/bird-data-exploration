@@ -6,11 +6,11 @@ This readme summarizes a consolidated dataset of ~10K bird species that includes
 ## Business Problem
 
 In September 2021, the Ivory-billed Woodpecker was declared extinct. Eight species of birds in Hawaii are expected to share a similar fate due to habitat removal and the presence of invasive species. The World Ornithological Society (WOS) has an interest in the conservation of bird species of the world. To best direct research funding and target conservation efforts the WOS has asked us to build a predictive model to accurately identify threatened bird species.
-<br />
+<br />  
 We aim to use Machine Learning techniques to construct a predictive model trained on current threatened status. Our data includes diet, strategies of foraging/hunting, biological features of the bird(s), types of environmental threats, habitats, and breeding location.  
-<br />
+<br />  
 Developing a model to predict threatened status, we can identify factors that most contribute to species decline. The WOS can utilize the model to strategically plan conservation efforts and prioritize research funding. 
-<br />
+<br />  
 We may want to pay special attention in situations where our model produces false positives (the model thinks that a species to be threatened, when in fact it's not). These birds, while not currently threatened, have characteristics of threatened birds and are worthy of research into what strategies have made their species successful.
 
 ## Sources
