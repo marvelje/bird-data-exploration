@@ -1,7 +1,8 @@
 ## Bird Data Summary
 
 This readme summarizes a consolidated dataset of ~10K bird species that includes diet information, size, habitat, threatened status, nature of threat, and other bird characteristics.
-<br />
+
+
 ## Business Problem
 
 
@@ -17,13 +18,20 @@ Other bird features:
 * Data Query Portal: http://datazone.birdlife.org/species/search
 * Main Website: https://www.birdlife.org  
 
-Red List:
+Red List (threatened, endangered, etc):
 * https://www.iucnredlist.org
 
+
+## Notebooks
+* threats_habitats_merge.ipynb: pulls habitat, threat, region, migratory, and endemic breeding flags and merges them with the full bird dataset from birdlife.org
+* bird_eda.ipynb: combines final output from threats_habitats and combines with the diet data to form the final dataset. Prints out .info() and explores distribution of the target variable (threatened status)
+* birds_simple_model.ipynb: very first logistic regression to make sure this problem is potentially interesting
 
 
 ## "Final" dataset description
 * bird_dataset.csv
+* Final records of 9,597. Datasets were merged on Scientific or English name (i.e., if one failed, try the other)
+* Of the 9,597, there are 1,239 species that are considered Globally Threatened (Vulnerable, Endangered, or Critically Endangered)
 * PassNonPass: Flag for whether or not the bird is passerine (perching) or not
 * IOCOrder through Taxo: Various levels of Animal Kingdom clasification
 * Diet-Inv through Diet-Plant0: Percent of overall diet that bird eats in each of these categories (should sum up to 1 for each species)
