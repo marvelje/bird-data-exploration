@@ -11,7 +11,7 @@ We aim to use Machine Learning techniques to construct a predictive model traine
 <br />
 Developing a model to predict threatened status, we can identify factors that most contribute to species decline. The WOS can utilize the model to strategically plan conservation efforts and prioritize research funding. 
 <br />  
-We may want to pay special attention in situations where our model produces false positives (the model thinks that a species to be threatened, when in fact it's not). These birds, while not currently threatened, have characteristics of threatened birds and are worthy of research into what strategies have made their species successful.
+We may want to pay special attention in situations where our model produces false positives (the model thinks that a species is threatened, when in fact it's not). These birds, while not currently threatened, have characteristics of threatened birds and are worthy of research into what strategies have made their species successful.
 
 ## Sources
 
