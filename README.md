@@ -30,7 +30,7 @@ Red List (threatened, endangered, etc):
 
 ## Notebooks
 * threats_habitats_merge.ipynb: pulls habitat, threat, region, migratory, and endemic breeding flags and merges them with the full bird dataset from birdlife.org
-* bird_eda.ipynb: combines final output from threats_habitats and combines with the diet data to form the final dataset. Prints out .info() and explores distribution of the target variable (threatened status)
+* bird_eda.ipynb: take final output from threats_habitats and combines with the diet data to form the final dataset. Prints out .info() and explores distribution of the target variable (threatened status)
 * birds_simple_model.ipynb: very first logistic regression to make sure this problem is potentially interesting
 
 
