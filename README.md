@@ -13,7 +13,6 @@ Diet:
 * Github: https://github.com/hurlbertlab/dietdatabase
 <br />
 Other bird features:
-<br />
 * Data Dictionary: http://datazone.birdlife.org/species/spcrange
 * Data Query Portal: http://datazone.birdlife.org/species/search
 * Main Website: https://www.birdlife.org
