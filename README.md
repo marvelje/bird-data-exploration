@@ -10,13 +10,13 @@ This readme summarizes a consolidated dataset of ~10K bird species that includes
 
 Diet:
 * Paper: https://figshare.com/collections/EltonTraits_1_0_Species-level_foraging_attributes_of_the_world_s_birds_and_mammals/3306933
-* Github: https://github.com/hurlbertlab/dietdatabase
-<br />
+* Github: https://github.com/hurlbertlab/dietdatabase  
+
 Other bird features:
 * Data Dictionary: http://datazone.birdlife.org/species/spcrange
 * Data Query Portal: http://datazone.birdlife.org/species/search
-* Main Website: https://www.birdlife.org
-<br />
+* Main Website: https://www.birdlife.org  
+
 Red List:
 * https://www.iucnredlist.org
 
