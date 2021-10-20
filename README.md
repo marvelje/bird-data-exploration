@@ -43,13 +43,13 @@ Red List (threatened, endangered, etc):
 * Diet-Inv through Diet-Plant0: Percent of overall diet that bird eats in each of these categories (should sum up to 1 for each species)
 * Diet-5Cat: "general" classification of diet, i.e., omnivore, plantseed, etc
 * ForStrat-watbelowsurf through ForStrat-aerial: Foraging (feeding) strategy. Should sum up to 1 for each species.
-* Nocturnal: flag for whether the bird feed at night or not
+* Nocturnal: flag for whether the bird feeds at night or not
 * BodyMass-Value: weight of the bird
 * Global IUCN Red List Category: bird status per IUCN. 7 categories ranging from Extinct to Least Concern. They consider Vulnerable, Endangered, and Criticially Endangered as "Globally Threatened". This will form the bin that's our target outcome variable.
 * Endemic_breeding: Is the bird endemic to a single country when breeding?
 * Migratory: Is the bird migratory or not? If not, generally lives in the same location(s) throughout the year.
-* Africa through South_amer: region flags for where these birds are generally seem. A species could have multiple region tags (e.g., many bird species breed in North America and winter in South America. It would show up in both).
-* agriculture_threat through transportation_threat: Flag from BirdLife international characterizing the nature of threats to a birds habitat.
+* Africa through South_amer: region flags for where these birds are generally seen. A species could have multiple region tags (e.g., many bird species breed in North America and winter in South America. Those would show up in both).
+* agriculture_threat through transportation_threat: Flag from BirdLife international characterizing the nature of threats to a bird's habitat.
 * artificial_terrestrial through wetlands_inland: habitat flags
 
 
