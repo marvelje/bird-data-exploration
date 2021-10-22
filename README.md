@@ -57,7 +57,7 @@ Red List (threatened, endangered, etc):
 
 * There is additional region data found here (https://www.worldbirdnames.org/new/ioc-lists/master-list-2/)
 * It is more useful for our model because it identifies primary "breeding" region, but the data is very messy.
-* This is not included in the dataset, but we hope to have it incorporated by next week (if our dataset is approved :) )
+* This is not included in the dataset, but we hope to have it incorporated soon
 
 ## First simple model
 
