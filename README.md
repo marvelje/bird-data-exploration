@@ -17,7 +17,6 @@ We may want to pay special attention in situations where our model produces fals
 
 Diet:
 * Paper: https://figshare.com/collections/EltonTraits_1_0_Species-level_foraging_attributes_of_the_world_s_birds_and_mammals/3306933
-* Github: https://github.com/hurlbertlab/dietdatabase  
 
 Other bird features:
 * Data Dictionary: http://datazone.birdlife.org/species/spcrange
